@@ -11,6 +11,9 @@ body {
 p {
   font-size: 18px;
 }
+h1 {
+  font-size: 55px;
+}
 
 /* ------------ Utilities ------------ */
 
@@ -317,7 +320,7 @@ a.theme:hover {
 }
 .bg-blue-tick li p {
   padding: 1rem 1.5rem;
-  margin: 1.2rem 0 1.2rem 1.2rem;
+  margin-left: 1.2rem;
   background-color: white;
   color: #1274bd;
   border-radius: 50rem;
@@ -341,7 +344,7 @@ a.theme:hover {
 }
 .bg-green-tick li h5 {
   padding: 0 1rem;
-  margin: 1.5rem;
+  margin: 1rem 0 3.5rem 1rem;
 }
 
 .time-box {
